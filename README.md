@@ -1,2 +1,4 @@
 # playgroud_flutter
-Todos os apredizados e testes estão nesse projeto 
+- Área de testes para novos aprendizados
+- Todo conhecimento novo estarão codensados nesse repo
+- Boa sorte
